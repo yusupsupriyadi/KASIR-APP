@@ -1,3 +1,5 @@
+![smartmockups_kk5o37gx](https://user-images.githubusercontent.com/57658483/108600574-72b53b80-73ca-11eb-8960-c12ec8fbadd0.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
